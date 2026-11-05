@@ -44,13 +44,6 @@ Second Year
 - Object-Oriented Programming
 - Problem Solving
 - Software Development
-  
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashiDubey08&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashiDubey08&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
 
 ## Connect With Me
 
