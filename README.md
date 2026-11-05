@@ -51,4 +51,4 @@ Second Year
 
 ---
 
-*Learning continuously. Building consistently. Growing through experience.*
+
