@@ -51,6 +51,10 @@ Second Year
 - Problem Solving
 - Software Development
 
+## Contribution Activity
+
+![GitHub Snake](https://raw.githubusercontent.com/YashiDubey08/YashiDubey08/output/github-contribution-grid-snake.svg)
+
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/yashi-dubey-3047523a0
